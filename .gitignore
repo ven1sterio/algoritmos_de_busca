@@ -1,0 +1,10 @@
+# Binários compilados
+bfs
+dfs
+dijkstra
+*.o
+*.out
+*.exe
+
+# Arquivos de sistema
+.DS_Store
